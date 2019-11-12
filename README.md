@@ -1,5 +1,7 @@
 [Apresentação](https://docs.google.com/presentation/d/1Kv4FdKFoGG4bzyS0Nf1ztUu0QMNmVzeR906W2TLnamM/edit?usp=sharing)
 
+[![Google Colab: Clustering](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gplichoski/squad-3-ad-xp-data-science-1/blob/master/trabalho-final-squad3.ipynb)
+
 ## Objetivo
 
 O objetivo deste produto é fornecer um serviço automatizado que recomenda leads para um usuário dado sua atual lista de clientes (Portfólio).
